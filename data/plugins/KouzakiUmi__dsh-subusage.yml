@@ -2,6 +2,6 @@ url: https://github.com/KouzakiUmi/dsh-subusage
 name: KouzakiUmi/dsh-subusage
 category: usage
 description:
-  en: 'Shows subscription quota and account balance beside the DeepSeek Harness model selector for 28 provider entries, with a shared settings page and a read-only quota tool.'
-  zh: '在 DeepSeek Harness 模型选择器旁显示 28 条提供商入口的订阅额度与账户余额，附统一设置页和只读额度查询工具。'
+  en: 'Subscription quota and balance pills beside the DeepSeek Harness model selector for 31 provider entries (DeepSeek, Z.ai, Kimi, Xiaomi MiMo, OpenCode Go, Command Code, Codex, SuperGrok, MiniMax, Volcengine Ark, GitHub Copilot, SiliconFlow, OpenRouter and more), with a shared settings page, a read-only quota tool and linked pills from Antigravity/Trae/WorkBuddy/OFM/Magpie provider plugins. Under active refactor (QuotaEntry contract, DSH Go panel, Magpie gateway); bugs may appear — please report issues.'
+  zh: '在 DeepSeek Harness 模型选择器旁显示 31 条提供商入口的订阅额度与账户余额（DeepSeek、Z.ai、Kimi、小米 MiMo、OpenCode Go、Command Code、Codex、SuperGrok、MiniMax、火山方舟 Ark、GitHub Copilot、SiliconFlow、OpenRouter 等），附统一设置页、只读额度查询工具与 Antigravity/Trae/WorkBuddy/OFM/Magpie 提供方联动。项目正在持续重构（QuotaEntry 契约、DSH Go 面板、Magpie 网关），版本间可能出现 bug——发现异常请回报 issue。'
 tarball: https://github.com/KouzakiUmi/dsh-subusage/releases/latest/download/dsh-subusage.tgz
